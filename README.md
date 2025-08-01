@@ -1,5 +1,7 @@
 OCR-applied-SVM/
+
 │
+
 ├── app.py # Main script for running OCR + SVM inference
 
 ├── requirements.txt # Required Python packages
